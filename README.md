@@ -1,4 +1,4 @@
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=inbn6619&show_icons=true&theme=radical)](https://github.com/inbn6619)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=inbn6619)](https://github.com/inbn6619)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inbn6619&layout=compact)](https://github.com/inbn6619/github-readme-stats)
 
